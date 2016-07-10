@@ -1,15 +1,1 @@
-adium-theme-ubuntu==0.3.4
-cycler==0.10.0
-gyp==0.1
-matplotlib==1.5.1
-numpy==1.11.0
-Pillow==3.2.0
-pyparsing==2.1.4
-python-apt==1.1.0b2
-python-dateutil==2.5.3
-pytz==2016.4
 requests==2.10.0
-six==1.10.0
-unity-lens-photos==1.0
-vboxapi==1.0
-virtualenv==15.0.1
